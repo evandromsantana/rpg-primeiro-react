@@ -3,7 +3,7 @@ import { CharacterSides } from '../types/CharacterSides';
 import { mapSpots } from '../data/mapSpots';
 
 export const useCharacter = () => {
-    const [pos, setPos] = useState({ x: 3, y: 5 });
+    const [pos, setPos] = useState({ x: 3, y: 17 });
     const [side, setSide] = useState<CharacterSides>('down');
 
     //mover para esquerda

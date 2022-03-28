@@ -9,7 +9,7 @@ site pessoal
 
 
 
-Projeto em React + Typescript fazendo uma RPG em react.
+Projeto em React + Typescript fazendo uma RPG e mapa modificado em react.
 
 ### Instalação 
 - `npm install`
