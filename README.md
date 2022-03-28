@@ -2,10 +2,10 @@
 # RPG criado em React
 
 Projeto feito por Evandro de Macêdo Santana
-[Linkedin](www.linkedin.com/in/evandro-m-santana)
+[Linkedin](https://linkedin.com/in/evandro-m-santana)
 
 site pessoal
-[evandrosantana](www.evandrosantana.com)
+[evandrosantana](https://evandrosantana.com)
 
 
 
