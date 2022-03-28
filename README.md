@@ -3,9 +3,11 @@
 
 Projeto feito por Evandro de Macêdo Santana
 [Linkedin](www.linkedin.com/in/evandro-m-santana)
-[site pessoal](www.evandrosantana.com)
-obs: no momento site em construção.
- 
+
+site pessoal
+[evandrosantana](www.evandrosantana.com)
+
+
 
 Projeto em React + Typescript fazendo uma RPG em react.
 
